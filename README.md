@@ -11,9 +11,9 @@ Welcome to my GitHub profile! My journey into tech started as a childhood dream,
 - **Intern at Prodigy** – I had the opportunity to work on several web development projects, which helped me build real-world applications while collaborating with talented teams. Though my main focus is now broader, this experience helped me gain valuable skills in software development and team collaboration.
 
 ## 💻 **Projects I’ve Worked On:**
-1. **Weather Website**: A simple web app that checks the weather by integrating with a public API.
-2. **Tic Tac Toe**: A classic game built using JavaScript, focused on problem-solving and implementing game logic.
-3. **Stopwatch**: A clean and functional stopwatch app to explore JavaScript and UI/UX design.
+1. **[Weather Website](https://github.com/1306pnjc/PRODIGY_WD_05)**: A simple web app that checks the weather by integrating with a public API.
+2. **[Tic Tac Toe](https://github.com/1306pnjc/PRODIGY_WD_03)**: A classic game built using JavaScript, focused on problem-solving and implementing game logic.
+3. **[Stopwatch](https://github.com/1306pnjc/PRODIGY_WD_02)**: A clean and functional stopwatch app to explore JavaScript and UI/UX design.
 
 ## 📫 **How to Reach Me:**
 - Email: [phazhachakalisa@gmail.com](mailto:phazhachakalisa@gmail.com)
